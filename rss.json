@@ -66,7 +66,7 @@
             },"#store-button, #store-button.back":{
                 "background":"linear-gradient(to top left, #0C5C33, #0F733F)"
             },".icon":{
-                "background-image":"url(https:\/\/raw.githubusercontent.com\/dm032\/RSS_dm032\/master\/iconsheet.png')"
+                "background-image":"url('https:\/\/raw.githubusercontent.com\/dm032\/RSS_dm032\/master\/iconsheet.png')"
             },".emoji":{
                 "background-image":"url('http:\/\/\/i.imgur.com\/H0tqnJx.png')"
             },"#woot.active:not(.selected) .bottom":{
