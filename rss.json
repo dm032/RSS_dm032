@@ -106,7 +106,7 @@
             },".emote:nth-child(odd) .cid-4737952-1426792597240":{
                 "background":"rgba(10,120,10,0.2)!important","border-left":"3px solid #336699"
             },".app-header, #footer":{
-                "background":"rgba(51, 102, 153, 0.5)"
+                "background":"rgba(51, 102, 153, 0.25)"
             },".p3-s-clear":{
                 "background-image":"url('https:\/\/dl.dropbox.com\/s\/vuw4swa8y09wf07\/clear_chat.png') !important"
             },".p3-s-stream":{
@@ -125,7 +125,7 @@
             },".from-host .msg .un, .from-cohost .msg .un":{
                 "color":"#336699 !important"
             },".msg .from.staff .un":{
-                "color":"rgb(16,134,56) !important"
+                "color":"rgb(51, 102, 153) !important"
             },"#playlist-activate-button span":{
                 "color":"#336699"
             },".torch":{
