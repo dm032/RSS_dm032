@@ -5,11 +5,11 @@
         "chat":{
             "admin":"42A5DC",
             "ambassador":"89BE6C",
-            "bouncer":"0F733F",
-            "cohost":"0F733F",
-            "residentdj":"0F733F",
-            "host":"0F733F",
-            "manager":"0F733F"
+            "bouncer":"336699",
+            "cohost":"336699",
+            "residentdj":"336699",
+            "host":"336699",
+            "manager":"336699"
         },
         "footer":"",
         "header":""
@@ -49,8 +49,8 @@
                 "left":"-220px",
                 "top":"15px"
             },".system":{
-                "color":"#00BB00 !important",
-                "border-color":"#00BB00 !important"
+                "color":"#336699 !important",
+                "border-color":"#ffffff !important"
             },"#playback-container":{
                 "border":"0px solid #555"
             },"#yt-frame, #playback-controls":{
@@ -58,13 +58,13 @@
             },"#playlist-button, #app-menu, #plugcubed, #history-button, .chevron:before, .chevron:after, #footer-user .bar-divider":{
                 "background":"rgba(167,245,122,0.1) !important"
             },"#toast-notifications .left":{
-                "background":"linear-gradient(to bottom left, #094626, #0C5C33) !important"
+                "background":"linear-gradient(to bottom left, #336699, #336699) !important"
             },"#app-menu.open":{
                 "background":"black !important"
             },"#app-menu .list .icon":{
                 "display":"none"
             },"#store-button, #store-button.back":{
-                "background":"linear-gradient(to top left, #0C5C33, #0F733F)"
+                "background":"linear-gradient(to top left, #336699, #336699)"
             },".icon":{
                 "background-image":"url('https:\/\/raw.githubusercontent.com\/dm032\/RSS_dm032\/master\/iconsheet.png')"
             },".emoji":{
@@ -102,9 +102,9 @@
                 "background":"rgba(10,120,10,0.2)!important",
                 "border-left":"3px solid #0C5C33"
             }, ".emote:nth-child(even) .cid-4737952-1426792597240":{
-                "background":"rgba(10,100,10,0.2)!important","border-left":"3px solid #0C5C33"
+                "background":"rgba(10,100,10,0.2)!important","border-left":"3px solid #336699"
             },".emote:nth-child(odd) .cid-4737952-1426792597240":{
-                "background":"rgba(10,120,10,0.2)!important","border-left":"3px solid #0C5C33"
+                "background":"rgba(10,120,10,0.2)!important","border-left":"3px solid #336699"
             },".app-header, #footer":{
                 "background":"rgba(6, 41, 23, 0.5)"
             },".p3-s-clear":{
@@ -127,7 +127,7 @@
             },".msg .from.staff .un":{
                 "color":"rgb(16,134,56) !important"
             },"#playlist-activate-button span":{
-                "color":"#00BB00"
+                "color":"#336699"
             },".torch":{
                 "display":"none"
             },".icon.icon-volume-off-once":{
