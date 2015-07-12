@@ -56,7 +56,7 @@
             },"#yt-frame, #playback-controls":{
                 "margin-top":"10px"
             },"#playlist-button, #app-menu, #plugcubed, #history-button, .chevron:before, .chevron:after, #footer-user .bar-divider":{
-                "background":"rgba(167,245,122,0.1) !important"
+                "background":"rgba(51, 102, 153, 0.82) !important"
             },"#toast-notifications .left":{
                 "background":"linear-gradient(to bottom left, #094626, #0C5C33) !important"
             },"#app-menu.open":{
@@ -106,7 +106,7 @@
             },".emote:nth-child(odd) .cid-4737952-1426792597240":{
                 "background":"rgba(10,120,10,0.2)!important","border-left":"3px solid #336699"
             },".app-header, #footer":{
-                "background":"rgba(6, 41, 23, 0.5)"
+                "background":"rgba(51, 102, 153, 0.5)"
             },".p3-s-clear":{
                 "background-image":"url('https:\/\/dl.dropbox.com\/s\/vuw4swa8y09wf07\/clear_chat.png') !important"
             },".p3-s-stream":{
@@ -119,7 +119,7 @@
             },"#playlist-menu .row.selected":{
                 "background":"#336699 !important"
             },"#footer-user":{
-                "background":"rgba(167,245,122,0.1)"
+                "background":"rgba(51, 102, 153, 0.5)"
             },"#footer-user .bar-divider":{
                 "display":"none"
             },".from-host .msg .un, .from-cohost .msg .un":{
