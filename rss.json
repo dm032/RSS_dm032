@@ -1,0 +1,154 @@
+{
+    "author":"dm032",
+    "colors":{
+        "background":"",
+        "chat":{
+            "admin":"42A5DC",
+            "ambassador":"89BE6C",
+            "bouncer":"0F733F",
+            "cohost":"0F733F",
+            "residentdj":"0F733F",
+            "host":"0F733F",
+            "manager":"0F733F"
+        },
+        "footer":"",
+        "header":""
+    },
+    "css":{
+        "font":[],
+        "import":[],
+        "rule":{
+            "#no-dj":{
+                "margin-top":"10px",
+                "background-image":"url('https:\/\/dl.dropboxusercontent.com\/s\/t6b4bynemvtz8ed\/bloon_fish.gif')",
+                "background-size":"cover",
+                "opacity":"0.8"
+            },"#no-dj *":{
+                "display":"none"
+            },"#dj-button.is-join .left":{
+                "background":"linear-gradient(to bottom left, #2B3780, #24307D)"
+            },"#dj-button.is-wait .left":{
+                "background":"linear-gradient(to bottom left, #2B3780, #24307D)"
+            },"#dj-button.is-leave .left":{
+                "background":"linear-gradient(to bottom left, #CC7A00, #CC6501)"
+            },"#dj-button.is-quit .left":{
+                "background":"linear-gradient(to bottom left, #CC7A00, #CC6501)"
+            },"#room-name, #next-media-title, #now-playing-media":{
+                "font-variant":"small-caps"
+            },"#hd-button .button-background":{
+                "background":"linear-gradient(to bottom left, #0F7371, #0F7261)"
+            },"#refresh-button .button-background":{
+                "background":"linear-gradient(to bottom left, #010106, #010005)"
+            },"#playback .background img":{
+                "visibility":"hidden"
+            },"#playback .background":{
+                "background-image":"url('https:\/\/dl.dropboxusercontent.com\/u\/13933629\/PlugDJ\/_dev\/_RSS\/_LIVE\/videoframe.png')",
+                "width":"924px",
+                "height":"325px",
+                "position":"absolute",
+                "left":"-220px",
+                "top":"15px"
+            },".system":{
+                "color":"#00BB00 !important",
+                "border-color":"#00BB00 !important"
+            },"#playback-container":{
+                "border":"0px solid #555"
+            },"#yt-frame, #playback-controls":{
+                "margin-top":"10px"
+            },"#playlist-button, #app-menu, #plugcubed, #history-button, .chevron:before, .chevron:after, #footer-user .bar-divider":{
+                "background":"rgba(167,245,122,0.1) !important"
+            },"#toast-notifications .left":{
+                "background":"linear-gradient(to bottom left, #094626, #0C5C33) !important"
+            },"#app-menu.open":{
+                "background":"black !important"
+            },"#app-menu .list .icon":{
+                "display":"none"
+            },"#store-button, #store-button.back":{
+                "background":"linear-gradient(to top left, #0C5C33, #0F733F)"
+            },".icon":{
+                "background-image":"url('https:\/\/dl.dropboxusercontent.com\/u\/13933629\/PlugDJ\/_dev\/_RSS\/_LIVE\/iconsheet.png')"
+            },".emoji":{
+                "background-image":"url('http:\/\/\/i.imgur.com\/H0tqnJx.png')"
+            },"#woot.active:not(.selected) .bottom":{
+                "background":"linear-gradient(to bottom left, #094626, #0C5C33) !important"
+            },"#woot.selected":{
+                "background":"linear-gradient(to bottom left, #094626, #0C5C33) !important"
+            },"#woot.selected .bottom":{
+                "background":"transparent"
+            },"#woot:not(.disabled):not(.selected) .bottom":{
+                "background":"linear-gradient(to bottom left, #094626, #0C5C33) !important"
+            },".top .icon-woot-disabled":{
+                "background-position":"-210px -280px !important"
+            },"#grab.active:not(.selected) .bottom":{
+                "background":"linear-gradient(to bottom left, #2E0F73, #2E0F62) !important"
+            },"#grab.selected":{
+                "background":"linear-gradient(to bottom left, #2E0F73, #2E0F62) !important"
+            },"#grab.selected .bottom":{
+                "background":"transparent"
+            },"#grab:not(.disabled):not(.selected) .bottom":{
+                "background":"linear-gradient(to bottom left, #3F0F73, #3F0F62) !important"
+            },"#meh.active:not(.selected) .bottom":{
+                "background":"linear-gradient(to bottom left, #730F11, #630F10) !important"
+            },"#meh.selected":{
+                "background":"linear-gradient(to bottom left, #730F11, #630F10) !important"
+            },"#meh.selected .bottom":{
+                "background":"transparent"
+            },"#meh:not(.disabled):not(.selected) .bottom":{
+                "background":"linear-gradient(to bottom left, #730F11, #630F10) !important"
+            },".mention:nth-child(even) .cid-4737952-1426792597240, .msg:nth-child(even) .cid-4737952-1426792597240":{
+                "background":"rgba(10,100,10,0.2)!important",
+                "border-left":"3px solid #0C5C33"
+            },".mention:nth-child(odd) .cid-4737952-1426792597240, .msg:nth-child(odd) .cid-4737952-1426792597240":{
+                "background":"rgba(10,120,10,0.2)!important",
+                "border-left":"3px solid #0C5C33"
+            }, ".emote:nth-child(even) .cid-4737952-1426792597240":{
+                "background":"rgba(10,100,10,0.2)!important","border-left":"3px solid #0C5C33"
+            },".emote:nth-child(odd) .cid-4737952-1426792597240":{
+                "background":"rgba(10,120,10,0.2)!important","border-left":"3px solid #0C5C33"
+            },".app-header, #footer":{
+                "background":"rgba(6, 41, 23, 0.5)"
+            },".p3-s-clear":{
+                "background-image":"url('https:\/\/dl.dropbox.com\/s\/vuw4swa8y09wf07\/clear_chat.png') !important"
+            },".p3-s-stream":{
+                "background-image":"url('https:\/\/dl.dropbox.com\/s\/uz59t6pd1rxpa5t\/toggle_stream.png') !important"
+            },"#your-next-media.in-history .icon":{
+                "background-image":"url('https:\/\/dl.dropboxusercontent.com\/u\/13933629\/PlugDJ\/_dev\/_RSS\/iconsheet_v0.4.png') !important",
+                "background-position":"0 0"
+            },"#playlist-menu .row .count":{
+                "color":"#00BB00 !important"
+            },"#playlist-menu .row.selected":{
+                "background":"#004422 !important"
+            },"#footer-user":{
+                "background":"rgba(167,245,122,0.1)"
+            },"#footer-user .bar-divider":{
+                "display":"none"
+            },".from-host .msg .un, .from-cohost .msg .un":{
+                "color":"#0F733F !important"
+            },".msg .from.staff .un":{
+                "color":"rgb(16,134,56) !important"
+            },"#playlist-activate-button span":{
+                "color":"#00BB00"
+            },".torch":{
+                "display":"none"
+            },".icon.icon-volume-off-once":{
+                "background-image":"url('https:\/\/dl.dropboxusercontent.com\/u\/13933629\/PlugDJ\/_dev\/_RSS\/_LIVE\/mute_once.png') !important"
+            }
+        }
+    },"images":{
+        "background":"https:\/\/dl.dropboxusercontent.com\/u\/13933629\/PlugDJ\/_dev\/_RSS\/_LIVE\/background.png",
+        "booth":"",
+        "icons":{
+            "admin":"",
+            "ambassador":"",
+            "bouncer":"",
+            "cohost":"",
+            "residentdj":"",
+            "host":"",
+            "manager":""
+        },"playback":""
+    },"rules":{
+        "allowAutojoin":"FALSE",
+        "allowAutorespond":"FALSE",
+        "allowAutowoot":true
+    }
+}
