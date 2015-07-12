@@ -108,9 +108,9 @@
             },".app-header, #footer":{
                 "background":"rgba(51, 102, 153, 0.25)"
             },".p3-s-clear":{
-                "background-image":"url('https:\/\/dl.dropbox.com\/s\/vuw4swa8y09wf07\/clear_chat.png') !important"
+                "background-image":"url('https:\/\/raw.githubusercontent.com\/dm032\/RSS_dm032\/master\/clear_chat.png') !important"
             },".p3-s-stream":{
-                "background-image":"url('https:\/\/dl.dropbox.com\/s\/uz59t6pd1rxpa5t\/toggle_stream.png') !important"
+                "background-image":"url('https:\/\/raw.githubusercontent.com\/dm032\/RSS_dm032\/master\/toggle_stream.png') !important"
             },"#your-next-media.in-history .icon":{
                 "background-image":"url('https:\/\/dl.dropboxusercontent.com\/u\/13933629\/PlugDJ\/_dev\/_RSS\/iconsheet_v0.4.png') !important",
                 "background-position":"0 0"
