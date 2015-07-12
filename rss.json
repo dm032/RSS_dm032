@@ -49,8 +49,8 @@
                 "left":"-220px",
                 "top":"15px"
             },".system":{
-                "color":"#00BB00 !important",
-                "border-color":"#00BB00 !important"
+                "color":"#336699 !important",
+                "border-color":"#336699 !important"
             },"#playback-container":{
                 "border":"0px solid #555"
             },"#yt-frame, #playback-controls":{
@@ -97,14 +97,14 @@
                 "background":"linear-gradient(to bottom left, #730F11, #630F10) !important"
             },".mention:nth-child(even) .cid-4737952-1426792597240, .msg:nth-child(even) .cid-4737952-1426792597240":{
                 "background":"rgba(10,100,10,0.2)!important",
-                "border-left":"3px solid #0C5C33"
+                "border-left":"3px solid #336699"
             },".mention:nth-child(odd) .cid-4737952-1426792597240, .msg:nth-child(odd) .cid-4737952-1426792597240":{
                 "background":"rgba(10,120,10,0.2)!important",
-                "border-left":"3px solid #0C5C33"
+                "border-left":"3px solid #336699"
             }, ".emote:nth-child(even) .cid-4737952-1426792597240":{
-                "background":"rgba(10,100,10,0.2)!important","border-left":"3px solid #0C5C33"
+                "background":"rgba(10,100,10,0.2)!important","border-left":"3px solid #336699"
             },".emote:nth-child(odd) .cid-4737952-1426792597240":{
-                "background":"rgba(10,120,10,0.2)!important","border-left":"3px solid #0C5C33"
+                "background":"rgba(10,120,10,0.2)!important","border-left":"3px solid #336699"
             },".app-header, #footer":{
                 "background":"rgba(6, 41, 23, 0.5)"
             },".p3-s-clear":{
@@ -115,19 +115,19 @@
                 "background-image":"url('https:\/\/dl.dropboxusercontent.com\/u\/13933629\/PlugDJ\/_dev\/_RSS\/iconsheet_v0.4.png') !important",
                 "background-position":"0 0"
             },"#playlist-menu .row .count":{
-                "color":"#00BB00 !important"
+                "color":"#336699 !important"
             },"#playlist-menu .row.selected":{
-                "background":"#004422 !important"
+                "background":"#336699 !important"
             },"#footer-user":{
                 "background":"rgba(167,245,122,0.1)"
             },"#footer-user .bar-divider":{
                 "display":"none"
             },".from-host .msg .un, .from-cohost .msg .un":{
-                "color":"#0F733F !important"
+                "color":"#336699 !important"
             },".msg .from.staff .un":{
                 "color":"rgb(16,134,56) !important"
             },"#playlist-activate-button span":{
-                "color":"#00BB00"
+                "color":"#336699"
             },".torch":{
                 "display":"none"
             },".icon.icon-volume-off-once":{
