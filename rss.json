@@ -18,14 +18,7 @@
         "font":[],
         "import":[],
         "rule":{
-            "#no-dj":{
-                "margin-top":"10px",
-                "background-image":"url('https:\/\/dl.dropboxusercontent.com\/s\/t6b4bynemvtz8ed\/bloon_fish.gif')",
-                "background-size":"cover",
-                "opacity":"0.8"
-            },"#no-dj *":{
-                "display":"none"
-            },"#dj-button.is-join .left":{
+            "#dj-button.is-join .left":{
                 "background":"linear-gradient(to bottom left, #2B3780, #24307D)"
             },"#dj-button.is-wait .left":{
                 "background":"linear-gradient(to bottom left, #2B3780, #24307D)"
@@ -67,8 +60,6 @@
                 "background":"linear-gradient(to top left, #0C5C33, #0F733F)"
             },".icon":{
                 "background-image":"url('https:\/\/raw.githubusercontent.com\/dm032\/RSS_dm032\/master\/iconsheet.png')"
-            },".emoji":{
-                "background-image":"url('http:\/\/\/i.imgur.com\/H0tqnJx.png')"
             },"#woot.active:not(.selected) .bottom":{
                 "background":"linear-gradient(to bottom left, #094626, #0C5C33) !important"
             },"#woot.selected":{
