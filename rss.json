@@ -48,7 +48,7 @@
                 "border":"0px solid #555"
             },"#yt-frame, #playback-controls":{
                 "margin-top":"10px"
-            },"#playlist-button, #app-menu, #plugcubed, #history-button, .chevron:before, .chevron:after, #footer-user .bar-divider":{
+            },"#playlist-button, #app-menu, #plugcubed, #history-button, #rs-skip-button, .chevron:before, .chevron:after, #footer-user .bar-divider":{
                 "background":"rgba(51, 102, 153, 0.82) !important"
             },"#toast-notifications .left":{
                 "background":"linear-gradient(to bottom left, #094626, #0C5C33) !important"
@@ -98,7 +98,7 @@
                 "background":"rgba(10,120,10,0.2)!important","border-left":"3px solid #336699"
             },".app-header, #footer":{
                 "background":"rgba(51, 102, 153, 0.25)"
-            },".p3-s-clear":{
+            },".p3-s-clear, icon-radiant-clearchat":{
                 "background-image":"url('https:\/\/raw.githubusercontent.com\/dm032\/RSS_dm032\/master\/clear_chat.png') !important"
             },".p3-s-stream":{
                 "background-image":"url('https:\/\/raw.githubusercontent.com\/dm032\/RSS_dm032\/master\/toggle_stream.png') !important"
