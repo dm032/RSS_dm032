@@ -1,3 +1,8 @@
+# Archived
+Plug.dj no longer exists, so this is probably of no use to anyone anymore
+
+---
+
 # RSS_dm032
 Custom RSS for dm032's PlugDJ room  
 See it in action https://plug.dj/dm032 (Requires PlugCubed)  
